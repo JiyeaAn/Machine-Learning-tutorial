@@ -1,4 +1,4 @@
-##  📂 Machine-Learning-tutorial
+##  📂 Machine Learning tutorial
 AI/ML tutorial code
 
 | Posting | Check | Detail | Programming |
