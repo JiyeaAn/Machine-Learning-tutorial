@@ -1,7 +1,7 @@
 ##  📂 Machine Learning tutorial
 AI/ML tutorial code
 
-| Posting | Check | Detail | Programming | About |
+| Posting | Check | Methodology | Programming | Detail |
 | :------: |:---: | :------------: | :--: | :--------------: | 
 | 1 | ✔️ | 나이브 베이즈 분류_Naive Bayes Classification  | R | 국회의원 투표 성향 |
 | 2 | ✔️ | 의사결정나무_Decision Tree | R | 유방암 진단 |
