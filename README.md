@@ -9,6 +9,7 @@ AI/ML tutorial code
 | 4 | ✔️ | 서포트 벡터 머신_SVM | R | iris 데이터 |
 | 5 | ✔️ | 단순선형회귀분석_Simple Linear Regression | Python | Boston house 집값 예측 |
 | 6 | ✔️ | 다중선형회귀분석_Multivariable Linear Regression | Python | Boston house 집값 예측 |
+| 7 |  | 다중선형회귀분석_Multivariable Linear Regression | Python | Boston house 집값 예측+다중공산성 진단 Multicollinearity |
 
 ## 📚 References
 | Category | Detail | URL |
