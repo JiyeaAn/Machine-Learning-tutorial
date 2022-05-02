@@ -10,7 +10,8 @@ AI/ML tutorial code
 | 5 | ✔️ | 단순선형회귀분석_Simple Linear Regression | Python | Boston house 집값 예측 |
 | 6 | ✔️ | 다중선형회귀분석_Multivariable Linear Regression | Python | Boston house 집값 예측 |
 | 7 | ✔️ | 다중선형회귀분석_ Multiple linear regression_Multicollinearity | Python | Boston house 집값 예측+다중공산성 진단 |
-| 8 |  | 변수선택법_Variable Selection | Python |  ToyotaCorolla 자동차가격 예측 |
+| 8 | ✔️ | 변수선택법_Variable Selection | Python |  ToyotaCorolla 자동차가격 예측 |
+| 9 | ✔️ | 로지스틱 회귀분석_Logistic Regression | Python |  ToyotaCorolla 자동차가격 예측 |
 
 ## 📚 References
 | Category | Detail | URL |
