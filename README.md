@@ -13,9 +13,11 @@ AI/ML tutorial code
 | 8 | ✔️ | 변수선택법_Variable Selection | Python |  ToyotaCorolla 자동차가격 예측 |
 | 9 | ✔️ | 로지스틱 회귀분석_Logistic Regression | Python |  Personal Loan 대출 상황 예측 |
 | 10 | ✔️ | 나이브베이즈_Naive Bayes | Python | iris 데이터 |
+| 11 | ✔️ | ch02_sklearn_Titanic | Python | Titanic 생존예측 |
 
 ## 📚 References
 | Category | Detail | URL |
 | :------: | :------------: | :--: | 
 | Book | R을 이용한 웹스크레이핑과 데이터분석 |  |
 | Lecture  | K-digital 머신러닝&AI 첫걸음 시작하기| https://fastcampus.co.kr/b2g_nbacademy |
+| Book | 파이썬 머신러닝 완벽가이드 |  |
